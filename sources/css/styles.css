@@ -1,0 +1,97 @@
+#dropbtn
+{
+    color:White;
+    padding:20px;
+    padding-top:30px;
+    border:none;
+}
+
+.dropcontent
+{
+    display:none;
+    position: absolute;
+    color:white;
+    min-width: 100px;
+    z-index: 1;
+}
+.dropcontent a
+{
+    color:white;
+    background-color: #343a40;
+    text-decoration: none;
+    display:block;
+    padding: 12px 18.5px;
+}
+.item1:hover
+{
+    color:#0056b3
+}
+.item2:hover
+{
+    color:#0056b3
+}
+.item3:hover
+{
+    color:#0056b3
+}
+.item4:hover
+{
+    color:#0056b3
+}
+.dropdown:hover .dropcontent
+{
+     display: block;
+}
+.dropcontent:hover
+{
+    color:yellow;
+}
+
+a
+{
+    color:white;
+}
+.navbar-brand
+{
+    display:block;
+    padding:25px;
+}
+.nav-item
+{
+    display:block;
+    padding:20px;
+}
+.carousel-inner
+{
+    padding-left:13%
+}
+.carousel-control-prev
+{
+    padding-left:14%
+}
+.carousel-control-next
+{
+    padding-right:14%
+}
+.content
+{
+    background-image: url("../assets/images/background.jpg");
+    background-size:300%;
+}
+
+.btn
+{
+    background-color:green
+}
+.footer
+{
+    background-color: #343a40;
+}
+#indoor
+{
+    padding-left:5%
+}
+.col-md-6
+{
+    padding-bottom:10px
+}
